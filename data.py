@@ -5,7 +5,7 @@ import numpy as np
 
 from skimage.io import imsave, imread
 
-data_path = 'raw/'
+data_path = ''
 
 image_rows = 420
 image_cols = 580

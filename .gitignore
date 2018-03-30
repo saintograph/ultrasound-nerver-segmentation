@@ -1,4 +1,6 @@
 venv
+raw
 train
 .vscode
 .ipynb_checkpoints
+*.npy
