@@ -5,7 +5,7 @@ import numpy as np
 
 from skimage.io import imsave, imread
 
-data_path = ''
+data_path = '/media/saintograph/aab8ddee-8e02-419e-85d2-1460a8645750/home/saintograph/projects/ultrasound-nerve-segmentation/'
 
 image_rows = 420
 image_cols = 580
